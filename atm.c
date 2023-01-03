@@ -9,11 +9,11 @@ char transaction = 'y';
 
 void main()
 {
-    while (pin != 1212)
+    while (pin != 1510)
     {
         printf("ENTER YOUR SECRET PIN NUMBER:");
         scanf("%d", &pin);
-        if (pin != 1212)
+        if (pin != 1510)
             printf("PLEASE ENTER VALID PIN NUMBER\n");
     }
     do
