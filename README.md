@@ -1,2 +1,1 @@
-This is my First Project ATM machine that is it works basically as a ATm as we can say that this is basically the overview of The Atm project 
-Thank U so much.....
+As name Suggest,ATM project is likewise the ATM machine It works same as the ATM machine.
